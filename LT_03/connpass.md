@@ -43,7 +43,7 @@ https://kizokukai.connpass.com/event/89510/
 
 </br>
 【設備】</br>
-・フリーWifi</br>
+・フリーWi-Fi</br>
 ・電源ケーブル</br>
 ・プロジェクター</br>
 
