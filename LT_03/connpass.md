@@ -27,9 +27,10 @@
 「LTはハードルが高くて…」「何か面白いことしたい！」という方、ウェルカム！！</br>
 是非、新たなチャレンジの場にしてください！！！！
 
-ちなみに前回のLTタイトルはこちら！登壇を考える人は参考にしてみてください！
+ちなみに過去のLTタイトルはこちら！登壇を考える人は参考にしてみてください！
 
-https://kizokukai.connpass.com/event/89510/
+* *前回* https://kizokukai.connpass.com/event/102653/
+* *前々回* https://kizokukai.connpass.com/event/89510/
 
 # 開催要項
 
