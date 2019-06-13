@@ -42,6 +42,7 @@ ITスキルに関わらず<span style="color: lightgray;">【技術】</span>**�
   * フリーWi-Fi
   * 電源ケーブル
   * プロジェクター
+  * VGA（ミニD-sub15ピン）、HDMI、typeC、ライトニングケーブル
 
 ## タイムスケジュール
 
